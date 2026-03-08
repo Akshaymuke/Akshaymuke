@@ -12,20 +12,16 @@
    - 👯 I'm always open for freelance gigs and contract based opportunitites
    - 💬 I'm looking to collaborate and create some cool content that we can share with the community
    - 🤘 You can find various data engineering projects on my profile
-- 🧑🏻‍🏫 I am currenly learning
+- 🧑🏻‍🏫 I am currently learning
    - Exploring Artificial Intelligence
    - 
-   - How to architect better data system 
+   - How to better architect system 
 - 📫 Here's how you can reach me: [LinkedIn](www.linkedin.com/in/akshaymuke-de/)
 - 🤘 Here are my Open Source contributions so far
-  - [YouTube Analysis End-To-End Data Engineering Project using Python and AWS](https://github.com/darshilparmar/dataengineering-youtube-analysis-project)
-  - [Twitter Data Pipeline using Airflow](https://github.com/darshilparmar/twitter-airflow-data-engineering-project)
-  - [Stock Market Real-Time Data Processing Using Kafka](https://github.com/darshilparmar/stock-market-kafka-data-engineering-project)
+  - [YouTube Analysis End-To-End Data Engineering Project using Python and AWS](https://github.com/akshaymuke/dataengineering)
 - 📝 Here are my most recent blogs:
    - Medium
-     - [SQL Functions I Use as Data Engineer](https://medium.com/@darshilp/sql-functions-i-use-as-data-engineer-1a1157b11cb4)
-     - [7 End-To-End Data Engineering Projects for FREE](https://medium.com/@darshilp/7-end-to-end-data-engineering-projects-for-free-bf9e86d7bfe0)
-     - [MY JOURNEY INTO DATA ENGINEERING](https://medium.com/@darshilp/my-journey-into-data-engineering-2f5a9648d0cd)
+     - [SQL Functions I Use as Data Engineer](https://medium.com/@akshaym/sql-func)
 - My Certifications and Courses
   - [Databricks Generative AI Fundamentals](https://credentials.databricks.com/b388a0b1-a94d-44fe-b171-8193667ac89e#acc.w9KmSMBq)
   - [Microsoft Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/akshaymuke-3059/credentials/b781adf1163d29d5)
