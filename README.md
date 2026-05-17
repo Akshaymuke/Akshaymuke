@@ -28,7 +28,11 @@
   - [Microsoft Fabric Data Engineer Associate](https://learn.microsoft.com/en-us/users/akshaymuke-3059/credentials/6e715377f4abe1f4)
   - [Databricks Certified Data Engineer Professional](https://credentials.databricks.com/e639d83a-cfd2-4c8b-911b-e632c5be9add#acc.xD9CPyn6)
   - [Machine Learning by Andrew Ng](https://www.coursera.org/account/accomplishments/verify/T97ZZ33PWGXE)
-  
+
+<p align="center">
+  <img src="https://github.com/Akshaymuke/Akshaymuke/blob/main/akshay_muke-share.png" width="100%" title="DSA Practice Tracker" alt="IDSA Practice Tracker">
+</p>
+
 - Languages I know
   - <img src="https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=flat-square&logo=apachespark&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> 
 
