@@ -14,14 +14,10 @@
    - 🤘 You can find various data engineering projects on my profile
 - 🧑🏻‍🏫 I am currently learning
    - Exploring Artificial Intelligence
-   - 
-   - How to better architect system 
+   - Integrating AI into the architecture
+   - How to better architect the system 
 - 📫 Here's how you can reach me: [LinkedIn](www.linkedin.com/in/akshaymuke-de/)
-- 🤘 Here are my Open Source contributions so far
-  - [YouTube Analysis End-To-End Data Engineering Project using Python and AWS](https://github.com/akshaymuke/dataengineering)
-- 📝 Here are my most recent blogs:
-   - Medium
-     - [SQL Functions I Use as Data Engineer](https://medium.com/@akshaym/sql-func)
+- 
 - My Certifications and Courses
   - [Databricks Generative AI Fundamentals](https://credentials.databricks.com/b388a0b1-a94d-44fe-b171-8193667ac89e#acc.w9KmSMBq)
   - [Microsoft Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/akshaymuke-3059/credentials/b781adf1163d29d5)
