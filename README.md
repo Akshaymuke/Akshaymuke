@@ -25,6 +25,7 @@
   - [Databricks Certified Data Engineer Professional](https://credentials.databricks.com/e639d83a-cfd2-4c8b-911b-e632c5be9add#acc.xD9CPyn6)
   - [Machine Learning by Andrew Ng](https://www.coursera.org/account/accomplishments/verify/T97ZZ33PWGXE)
 
+- Data Structures and Algorithm Practice
 <p align="center">
   <img src="https://github.com/Akshaymuke/Akshaymuke/blob/main/akshay_muke-share.png" width="100%" title="DSA Practice Tracker" alt="IDSA Practice Tracker">
 </p>
