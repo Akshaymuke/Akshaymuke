@@ -27,7 +27,7 @@
 
 - Data Structures and Algorithm Practice
 <p align="center">
-  <img src="https://github.com/Akshaymuke/Akshaymuke/blob/main/akshay_muke-share.png" width="100%" title="DSA Practice Tracker" alt="IDSA Practice Tracker">
+  <img src="https://github.com/Akshaymuke/Akshaymuke/blob/main/dsa_practice.png" width="100%" title="DSA Practice Tracker" alt="IDSA Practice Tracker">
 </p>
 
 - Languages I know
